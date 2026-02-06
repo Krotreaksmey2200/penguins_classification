@@ -1,8 +1,9 @@
 numpy == 2.4.1
-pandas == 3.02
+pandas == 2.3.3
 # seaborn
 # matplotlib
 # openpyxl
 # scipy
 # jupyter
 scikit-learn == 1.8.0
+streamlit == 1.54.0
