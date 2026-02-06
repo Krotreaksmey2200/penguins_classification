@@ -1,0 +1,8 @@
+numpy == 2.4.1
+pandas == 3.02
+# seaborn
+# matplotlib
+# openpyxl
+# scipy
+# jupyter
+scikit-learn == 1.8.0
